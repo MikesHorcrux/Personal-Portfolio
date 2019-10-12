@@ -1,0 +1,27 @@
+/*process*/
+.process-container img{
+    height: auto;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.process-container .table{
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.process-container .table td{
+  background-color: #333333;
+  width: 10%;
+  text-align: center;
+  font-size: 1.7vw;
+  color: white;
+  border-radius: 15px;
+  min-height: 300px;
+  vertical-align: top;
+
+}
+.process-container .table td p{
+  font-size: 15px;
+  margin:10px 5px;
+}

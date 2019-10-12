@@ -1,0 +1,93 @@
+/*Main css page*/
+body{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  min-width: 490px;
+
+
+}
+/*all background imgs class */
+.background-img{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-top: 80px;
+}
+.title{
+  margin-top: 200px;
+  text-align: center;
+  font-size: 2vw;
+  color: #333333;
+}
+.line{
+  background-color: #5B006D;
+  height: 3px;
+  margin-left: 43%;
+  margin-right: 43%;
+  margin-bottom: 20px;
+}
+
+.head-img{
+  background-image: url("/media/head-img.jpg");
+  height: auto;
+}
+.project-img{
+  background-image: url("/media/project-background.jpg");
+  height: 250px;
+}
+.about-img{
+  background-image: url("/media/about-header.jpeg");
+  height: 250px;
+}
+.contact-img{
+  background-image: url("/media/contactform-background.jpg");
+  margin-bottom: -50px;
+}
+.full{
+  min-height: 750px;
+}
+.page-heading{
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
+.date-greeting{
+  height: 80px;
+  width: 350px;
+  background-color: #5B006D;
+  border-radius: 0 50px 50px 0;
+  display: flex;
+}
+.date-greeting p{
+  color: white;
+  font-size: 27px;
+  margin: auto;
+  text-align: right;
+
+}
+.head-content{
+
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 25px;
+  display: inline-block;
+}
+.head-content img{
+  width: 400px;
+  float: left;
+}
+.head-content .text{
+  font-size: 25px;
+  color: white;
+  width: 30%;
+  min-width: 300px;
+  float: right;
+  margin-right: 70px;
+  padding: 0 30px;
+  background: rgba(0, 0, 0, 0.45);
+  border-radius: 10px;
+  padding-bottom: 15px;
+}

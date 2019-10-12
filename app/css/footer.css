@@ -1,0 +1,24 @@
+footer{
+  background-color: #333333;
+  height: 70px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  margin: auto;
+  margin-top: -17px;
+}
+
+footer img{
+  width: 30px;
+  height: auto;
+}
+.logo-space{
+  padding: 0 5px;
+  padding-bottom: 7px;
+}
+.insta{
+  width: 40px;
+}
+p{
+  margin-bottom: -1px;
+}

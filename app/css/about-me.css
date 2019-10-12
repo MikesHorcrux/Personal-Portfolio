@@ -1,0 +1,48 @@
+main{
+  background-color: #333333;
+  margin-top: -20px;
+  margin-bottom: -30px;
+
+}
+.background{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.box{
+  margin: auto;
+  width: 50%;
+  height: 350px;
+  min-height: 600px;
+  color: white;
+  text-align: left;
+  display: inline-block;
+}
+.box-left{
+  float: left;
+  background-color: white;
+  color:  #333333;
+}
+.box-right{
+  float: right;
+  background-color: white;
+  color:  #333333;
+}
+.img1{
+  background-image: url("/media/about/IMG_2442.jpeg");
+}
+.img2{
+  background-image: url("/media/about/IMG_3316.jpeg");
+}
+.img3{
+  background-image: url("/media/about/IMG_3665.jpeg");
+}
+.box-text{
+  margin: 10% 7%;
+  font-size: 1.5vw;
+
+}
+.box h3{
+  color: #5B006D;
+}
